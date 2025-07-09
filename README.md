@@ -1,4 +1,5 @@
 # CELEBRITY LOOK ALIKE
+# REG-Cricket Task
 
 Follow the following steps and submit the final notebook in a GitHub repo.
 1. Download the dataset named “IPL 2022 Batters.csv” from here
